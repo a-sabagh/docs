@@ -361,7 +361,7 @@ If your application offers "remember me" functionality, you may use the `viaReme
 use Illuminate\Support\Facades\Auth;
 
 if (Auth::viaRemember()) {
-    // ...
+    // welcome back...
 }
 ```
 
